@@ -63,3 +63,4 @@ Database integration (MySQL)
 Multiple user accounts
 File handling for persistent data
 Hindi voice support
+Handle multiple featuers at a time
